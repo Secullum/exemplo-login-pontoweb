@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
+
+body {
+  margin: 0;
+}
+
+p {
+  font-size: 26px;
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+#secullum-login {
+  border: #cacaca solid 1px;
+}
+
+.site-header {
+  height: 120px;
+  background: #3176b7;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-title {
+  font-size: 2.5em;
+  font-family: "Open Sans", sans-serif;
+  color: #eee;
+  text-align: center;
+}
